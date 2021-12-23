@@ -1,0 +1,12 @@
+{
+  "name": "f2021",
+  "version": "1.0.2",
+  "description": "",
+  "main": "custom-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
